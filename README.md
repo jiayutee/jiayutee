@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Jiayu Tee 👋
 
-<!--
-**jiayutee/jiayutee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering consultant in Germany with a passion for **automation, data-driven decision making, and applying advanced analytics to solve real-world problems**.  
+With a background in **Electrical Engineering (B.Sc.)** and **Automation & Robotics (M.Sc., TUM)**, I enjoy bridging the gap between **engineering, mathematics, and business strategy**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 **What I Do**
+- **Engineering & Consulting:** Delivering technical solutions and optimizing processes.  
+- **Data & Analytics:** Experienced in Python (Pandas, NumPy, Scikit-learn), SQL, and statistical modeling.  
+- **Research:** Co-authored a paper on **learning real-world driving behavior distributions** (IEEE ITSC).  
+
+---
+
+## 🚀 **Projects & Highlights**
+- **[Driving Behavior Modeling](#)** – Quantile regression + normalizing flows for autonomous driving research.  
+- **[Algorithmic Trading Strategies](#)** – (Coming soon) Backtesting and optimization of systematic trading strategies.  
+- **[Automation Tools](#)** – Scripts to streamline engineering workflows.  
+
+---
+
+## 🛠 **Tech & Tools**
+`Python` `C++` `SQL` `MATLAB` `Git` `Docker` `LaTeX`
+
+---
+
+## 📫 **Let's Connect**
+- LinkedIn: [linkedin.com/in/jiayutee](https://linkedin.com/in/jiayutee)  
+- Email: [jiayu.tee@example.com](mailto:jiayu.tee@example.com)  
+
+> *“Always learning, always curious.”*
