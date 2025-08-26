@@ -26,6 +26,6 @@ With a background in **Electrical Engineering (B.Sc.)** and **Automation & Robot
 
 ## 📫 **Let's Connect**
 - LinkedIn: [linkedin.com/in/jiayutee](https://linkedin.com/in/jiayutee)  
-- Email: [jiayu.tee@example.com](mailto:jiayu.tee@example.com)  
+- Email: [jiayu.tee@example.com](mailto:jiayutee97@gmail.com)  
 
 > *“Always learning, always curious.”*
